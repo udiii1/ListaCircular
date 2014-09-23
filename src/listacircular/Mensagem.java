@@ -8,11 +8,7 @@ public class Mensagem {
     public Mensagem(String mensagem) {
         this.mensagem = mensagem;
     }
-
-    Mensagem(Mensagem mensagem) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-   
+       
     @Override
     public boolean equals(Object obj) {
         if (obj == null) {
