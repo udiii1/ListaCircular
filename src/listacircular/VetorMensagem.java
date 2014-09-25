@@ -7,12 +7,12 @@ public class VetorMensagem implements ListaCircular{
 
     @Override
     public void indiceAtual(Mensagem mensagem) {
-        lista.add(0, mensagem);
+        lista.add(mensagem);
     }
 
     @Override
     public void indicePosterior(Mensagem mensagem) {
-        lista.add(0, mensagem);
+        lista.add(mensagem);
     }
 
     @Override
