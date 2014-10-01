@@ -3,12 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/GitHub/ListaCircular/src/listacircular/Mensagem.java</file>
             <file>file:/D:/GitHub/ListaCircular/src/listacircular/Celula.java</file>
             <file>file:/D:/GitHub/ListaCircular/src/listacircular/IncluirFimRemover.java</file>
             <file>file:/D:/GitHub/ListaCircular/src/listacircular/ListaCircular.java</file>
-            <file>file:/D:/GitHub/ListaCircular/src/listacircular/VetorMensagem.java</file>
             <file>file:/D:/GitHub/ListaCircular/src/listacircular/ListarRemover.java</file>
+            <file>file:/D:/GitHub/ListaCircular/src/listacircular/Mensagem.java</file>
+            <file>file:/D:/GitHub/ListaCircular/src/listacircular/VetorMensagem.java</file>
         </group>
     </open-files>
 </project-private>
